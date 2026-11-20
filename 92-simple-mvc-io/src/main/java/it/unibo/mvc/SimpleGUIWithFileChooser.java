@@ -5,7 +5,6 @@ import static javax.swing.JOptionPane.showMessageDialog;
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.Toolkit;
-import java.awt.event.ActionListener;
 import java.io.IOException;
 
 import javax.swing.JButton;
